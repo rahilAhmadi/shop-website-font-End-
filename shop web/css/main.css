@@ -1,0 +1,16 @@
+@font-face {
+    font-family: iran;
+    src: url(../fonts/IRANSansWeb_Light.woff);
+}
+*{
+    direction: rtl;
+    font-family: iran;
+    box-sizing: border-box;
+}
+body{
+    font-size: 16px;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
